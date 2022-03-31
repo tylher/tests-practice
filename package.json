@@ -1,0 +1,25 @@
+{
+  "name": "tests-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylher/tests-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylher/tests-practice/issues"
+  },
+  "homepage": "https://github.com/tylher/tests-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
